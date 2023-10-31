@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta
+    xmlns="http://exist-db.org/xquery/repo">
+    <description>XQuery transformation test</description>
+    <author>David J. Birnbnaum</author>
+    <website>http://www.obdurodon.org</website>
+    <status>alpha</status>
+    <license></license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>xquery-transform-test</target>
+    <prepare>pre-install.xq</prepare>
+    <finish/>
+</meta>
