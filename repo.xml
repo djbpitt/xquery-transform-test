@@ -10,5 +10,5 @@
     <type>application</type>
     <target>xquery-transform-test</target>
     <prepare>pre-install.xq</prepare>
-    <finish/>
+    <finish>post-install.xq</finish>
 </meta>
